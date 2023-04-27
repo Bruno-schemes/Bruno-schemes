@@ -24,7 +24,7 @@ Olá, sou Bruno Schemes💻
 
   <a href="https://www.instagram.com/bruno_schemes/" taget="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  
-  <a href="https://www.linkedin.com/in/bruno-schemes-de-souza-a225471ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/bruno-schemes-a225471ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
  
